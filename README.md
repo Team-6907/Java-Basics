@@ -1,3 +1,7 @@
+> **Archived / 已归档.** This material now lives in [Team-6907/curriculum](https://github.com/Team-6907/curriculum) under `java-basics/`. This repository is kept only for its history.
+>
+> 本仓库内容已并入 [Team-6907/curriculum](https://github.com/Team-6907/curriculum) 的 `java-basics/` 目录，此处仅保留历史。
+
 # Java Basics
 
 Team 6907's introductory Java exercises.
